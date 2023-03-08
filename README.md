@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="/Users/divante/Downloads/dark-theme-np17.jpg">
- <source media="(prefers-color-scheme: light)" srcset="/Users/divante/Downloads/istockphoto-1325757900-170667a.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Divante222/Hello_World/blob/main/dark-theme-np17.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divante222/Hello_World/main/lightmode-image-example.webp">
  <img alt="Coming soon" src="YOUR-DEFAULT-IMAGE">
 </picture>
