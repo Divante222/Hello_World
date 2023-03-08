@@ -11,28 +11,33 @@ About me
 <br><br>
 <details>
 <summary>My top programming languages</summary>
-| RANK | CODING LANGUAGES |
-|-----:|------------------|
-|     1|       PYTHON     |
-|     2|       SQL        |
-|     3|       JAVA       |
 <table>
   <tr>
     <th>RANK</th>
     <th>CODING LANGUAGES</th> 
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td> 
-    <td>Germany</td>
+    <td>1</td>
+    <td>PYTHON</td> 
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td> 
-    <td>Mexico</td>
+    <td>2</td>
+    <td>SQL</td> 
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>JAVA</td> 
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>JAVASCRIPT</td> 
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>HTML</td> 
   </tr>
 </table>
-</details>
+</details> 
 ---
 > QUOTE
 To win any battle, you must fight as if you are already dead.
