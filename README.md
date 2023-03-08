@@ -8,3 +8,10 @@
 About me
 </h2>
 <p>Hi, My name is <strong>Divante Parness</strong> and I am learning data science at codeup</p>
+<br><br>
+
+| RANK | CODING LANGUAGES |
+|-----:|------------------|
+|     1|       PYTHON     |
+|     2|       SQL        |
+|     3|       JAVA       |
