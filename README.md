@@ -17,3 +17,8 @@ About me
 |     2|       SQL        |
 |     3|       JAVA       |
 </details>
+---
+> QUOTE
+To win any battle, you must fight as if you are already dead.
+---
+<!-- I can't wait to have another fun filled day learning -->
